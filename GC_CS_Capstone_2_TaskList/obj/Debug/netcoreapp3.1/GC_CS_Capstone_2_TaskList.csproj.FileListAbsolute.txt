@@ -1,0 +1,11 @@
+C:\Users\coronele\source\repos\GC_CS_Capstone_2_TaskList\GC_CS_Capstone_2_TaskList\bin\Debug\netcoreapp3.1\GC_CS_Capstone_2_TaskList.exe
+C:\Users\coronele\source\repos\GC_CS_Capstone_2_TaskList\GC_CS_Capstone_2_TaskList\bin\Debug\netcoreapp3.1\GC_CS_Capstone_2_TaskList.deps.json
+C:\Users\coronele\source\repos\GC_CS_Capstone_2_TaskList\GC_CS_Capstone_2_TaskList\bin\Debug\netcoreapp3.1\GC_CS_Capstone_2_TaskList.runtimeconfig.json
+C:\Users\coronele\source\repos\GC_CS_Capstone_2_TaskList\GC_CS_Capstone_2_TaskList\bin\Debug\netcoreapp3.1\GC_CS_Capstone_2_TaskList.runtimeconfig.dev.json
+C:\Users\coronele\source\repos\GC_CS_Capstone_2_TaskList\GC_CS_Capstone_2_TaskList\bin\Debug\netcoreapp3.1\GC_CS_Capstone_2_TaskList.dll
+C:\Users\coronele\source\repos\GC_CS_Capstone_2_TaskList\GC_CS_Capstone_2_TaskList\bin\Debug\netcoreapp3.1\GC_CS_Capstone_2_TaskList.pdb
+C:\Users\coronele\source\repos\GC_CS_Capstone_2_TaskList\GC_CS_Capstone_2_TaskList\obj\Debug\netcoreapp3.1\GC_CS_Capstone_2_TaskList.csprojAssemblyReference.cache
+C:\Users\coronele\source\repos\GC_CS_Capstone_2_TaskList\GC_CS_Capstone_2_TaskList\obj\Debug\netcoreapp3.1\GC_CS_Capstone_2_TaskList.AssemblyInfoInputs.cache
+C:\Users\coronele\source\repos\GC_CS_Capstone_2_TaskList\GC_CS_Capstone_2_TaskList\obj\Debug\netcoreapp3.1\GC_CS_Capstone_2_TaskList.AssemblyInfo.cs
+C:\Users\coronele\source\repos\GC_CS_Capstone_2_TaskList\GC_CS_Capstone_2_TaskList\obj\Debug\netcoreapp3.1\GC_CS_Capstone_2_TaskList.dll
+C:\Users\coronele\source\repos\GC_CS_Capstone_2_TaskList\GC_CS_Capstone_2_TaskList\obj\Debug\netcoreapp3.1\GC_CS_Capstone_2_TaskList.pdb
