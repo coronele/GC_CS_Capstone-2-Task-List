@@ -6,6 +6,46 @@ namespace GC_CS_Capstone_2_TaskList
     class MyMethods
     {
 
+
+        public static int UserChoice(string msg, string errorMsg, int limit)
+        {
+            int userOption;
+
+            // check if input is a valid integer
+            if (int.TryParse(GetUserInput(msg), out userOption))
+            {
+                // check if integer input is valid
+                if ((userOption <= 0) || (userOption > limit))
+                {
+                    SetOutputColor();
+                    Console.WriteLine(errorMsg);
+                    return UserChoice(msg, errorMsg, limit);
+                }
+                return userOption;
+            }
+            else
+            {
+                // if option is NOT an integer
+                SetOutputColor();
+                Console.WriteLine(errorMsg);
+                return UserChoice(msg, errorMsg, limit);
+            }
+        }
+
+        public static string YN_UserChoice(string msg, string errorMsg)
+        {
+            SetOutputColor();
+            string userOption = GetUserInput(msg).ToLower();
+            // check if "Y" input is valid
+            if ((userOption != "y") && (userOption != "n"))
+            {
+                SetOutputColor();
+                Console.WriteLine(errorMsg);
+                return YN_UserChoice(msg, errorMsg);
+            }
+            return userOption;
+        }
+
         public static string TryAgain(string message)
         {
             // Method for running program again.  Passes back to do while loop in main.
